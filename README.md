@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LibiaManoela
+- 📖 I study computer science at Unijui
 - 👀 I’m interested in anime, geek music, code and math
 - 🌱 I’m currently learning initial code
 - 💞️ I’m looking to collaborate on simple tasks
